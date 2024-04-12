@@ -1,2 +1,2 @@
 # IdeaActivate
-Idea PyCharm GoLand WebStorm 永久激活
+支持: CLion,DataGrip,DataSpell,GoLand,IDEA,PhpStorm,PyCharm,Rider,WebStorm
